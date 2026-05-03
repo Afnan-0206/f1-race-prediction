@@ -55,7 +55,31 @@ In this project, we built a predictive model to estimate driver finishing positi
 - Real-time prediction dashboard
 
 ---
+# 🏎️ F1 Race Strategy AI
 
+An AI-powered system that predicts Formula 1 race outcomes and simulates race strategies using machine learning.
+
+## 🚀 Features
+- 📊 Predict finishing position using LightGBM
+- 🧠 Advanced feature engineering (driver form, grid rank, qualifying performance)
+- 🧪 Race Scenario Simulator (rain, tire strategy, safety car)
+- 💻 Interactive web app for real-time prediction
+
+## 📸 Demo
+<img width="1919" height="778" alt="image" src="https://github.com/user-attachments/assets/4bc623ad-c8b4-497b-94d6-330a0c269bb7" />
+<img width="1895" height="775" alt="image" src="https://github.com/user-attachments/assets/560ceef3-70fe-41ff-b5af-c48bd26d7d4b" />
+
+
+
+## 🛠️ Tech Stack
+- Python
+- LightGBM
+- Pandas / NumPy
+- Streamlit
+
+## ▶️ Run Locally
+
+streamlit run app.py
 ## 👨‍💻 Contributors
 
 - Afnan  
